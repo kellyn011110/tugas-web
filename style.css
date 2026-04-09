@@ -1,0 +1,50 @@
+body {
+    font-family: Arial;
+    background-color: #9ec3cf;
+}
+
+.kotak {
+    width: 350px;
+    margin: 50px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.kotak h2 {
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+	   font-weight:bold;
+}
+
+.kotak3 {
+    background: #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.kotak4{
+	   background: #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+	  font-weight:bold;
+	  
+}
+
+#hasil {
+    margin-top: 15px;
+    padding: 10px;
+    background:#b7e8c4;
+    border-radius: 5px;
+	  font-weight:bold;
+}
